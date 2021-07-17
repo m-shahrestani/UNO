@@ -1,5 +1,5 @@
 # UNO
-AP Nowruz Project - UNO game using Java - a practice for OOP concepts, inheritance and polymorphism
+AP Nowruz Project - UNO game using Java - an exercise for OOP concepts, inheritance and polymorphism
 ## How to run the code
 Because this project contains ANSI colors which windows terminal does not support them, *please run this project on IntelliJ terminal.*  
 To play the game run the *Main* class. 
